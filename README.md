@@ -7,10 +7,11 @@ people in space at one time is 12.
 
 ## Additional information
 #### Email
-d00230925@student.dkit.ie
-r.kieran.collins@gmail.com
+- d00230925@student.dkit.ie
+- r.kieran.collins@gmail.com
+
 #### Languages used
 - [Python](https://www.python.org)
 
 ## Demo
-(TO BE ADDED)
+https://youtu.be/xBS0y2Y4aCg
